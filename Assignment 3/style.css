@@ -1,0 +1,220 @@
+.navbar{
+    width: 85%;
+    height: 60px;
+    margin: auto;
+    font-size:18PX;
+    font-weight:300;
+}
+.nav-left{
+    float: left;
+    
+}
+.log a img{
+    width:50%;
+    
+}
+
+.nav-right{
+    float: right;
+}
+.nav-right li{
+    list-style-type:none;
+    display: inline;
+    padding: 10px 20px;
+}
+.nav-right li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight:400;
+    color: black;
+}
+.nav-right li a:hover{
+    color: peachpuff;
+}
+.clr{
+    clear:both;
+}
+.section1{
+    background-image: url("images/drew-coffman-1872.jpg");
+    background-size: 100% 100%;
+    width: 100%;
+    height: 800px;
+    text-align: center;
+    color:white;
+}
+#welcome-statment{
+    padding-top:20%;
+}
+/* .button{
+    border: 1px solid;
+    display:inline-block;
+    width: 50%;
+}
+*/
+.section2{
+    width:90%;
+    margin: auto;
+    padding: 100px 30px;
+}
+.weare-img{
+    width: 50%;
+    float:left;
+}
+.weare-text{
+    width: 50%;
+    float: right;
+}
+.weare-img img{
+    width: 90%;
+}
+.liststatment-weare li{
+    list-style-type: none;
+    text-align: left;
+    padding-top: 50px;
+}
+.color-section{
+    background-color: #F0FFFF;
+}
+.section3{
+    width:90%;
+    margin: auto;
+    padding: 100px 30px;
+}
+.our-location-text{
+    width:50%;
+    float:left;
+    padding-bottom: 50px;
+}
+.our-location-text h2{
+    padding-bottom: 50px;
+}
+.our-location-img{
+    width:50%;
+    float:right;
+}
+.our-location-img img{
+    width: 100%;
+}
+.section4{
+    width:90%;
+    margin: auto;
+    padding: 100px 30px;
+    text-align: center;
+}
+.section4 h2{
+    padding-bottom: 25px;
+}
+.section4 p{
+    padding-bottom: 25px;
+}
+.sub-section4{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+
+}
+.sub-sub-section4{
+    width:31%;
+    float:left;
+    /* padding: 100px 30px; */
+    margin: auto;
+    padding-left: 75px;
+}
+.sub-sub-section4 img{
+    width:95%;
+    padding-bottom: 25px;
+}
+.sub-sub-section4 h3{
+    padding-bottom: 25px;
+}
+.section5{
+    width:90%;
+    margin: auto;
+    padding: 100px 30px;
+}
+.Contact-text{
+    width:50%;
+    float:left;
+    padding-bottom: 50px;
+}
+.Contact-text h2{
+    padding-bottom: 50px;
+}
+.Contact-text ul li{
+    list-style-type:none;
+}
+.Contact-map{
+    width:50%;
+    float:right;
+}
+.Contact-map iframe{
+    width:100%;
+    height: 500px;
+}
+.Top-footer{
+    width:100%;
+    background-color:#403D38;
+    color: white;
+    font-weight: 100;
+}
+.footerimg{
+    background-image: url("images/contact-details-map.png");
+    background-repeat:no-repeat;
+    background-position:90% 80% ;
+    width: 90%;
+    padding-top:25px;
+    margin: auto;
+}
+.About-us{
+    width: 24%;
+    float:left;
+    margin: auto;
+    padding-left: 25px;
+    /* padding: 50px 20px; */
+}
+.Why-we-pecial{
+    width: 24%;
+    float:left;
+    margin: auto;
+    /* padding: 50px 20px; */
+}
+.Why-we-pecial ul{
+    list-style-type:'>';
+    font-style: thin;
+}
+.Opening-hours{
+    width: 24%;
+    float:left;
+    margin: auto;
+    /* padding: 50px 20px; */
+}
+.Opening-hours ul{
+    list-style-type:'>';
+
+}
+.Contact-details{
+    width: 24%;
+    float:left;
+    margin: auto;
+    /* padding: 50px 20px;*/
+}
+.Contact-details ul{
+    list-style-type: none;
+
+}
+.Bottom-footer{
+    background-color:#353330;
+    text-align:center;
+    color:white;
+    padding: 25px 25px;
+
+}
+.Bottom-footer p{
+    padding: 5px;
+    font-size:10px;
+    font-weight: 100;
+
+}
+.Bottom-footer img{
+    width:10%
+}
